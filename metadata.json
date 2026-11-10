@@ -1,0 +1,6 @@
+{
+  "name": "LiveScore: Real-Time Sports Scores & Match Center",
+  "description": "Comprehensive real-time sports scores, live match statistics, lineups, commentary, league tables, fixtures, and sports news.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
